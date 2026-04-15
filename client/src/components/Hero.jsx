@@ -5,7 +5,7 @@ function Hero() {
           <h1>Hello, I’m Yara</h1>
           <h2>Full Stack Web Development Intern</h2>
           <p>
-            This is a clean, responsive, and user-friendly portfolio web application that showcases my skills, projects, and growth as a developer.
+            This is a clean, responsive, and user-friendly portfolio web application that showcases my skills, projects, and my growth as a developer.
           </p>
   
           <div className="hero-buttons">

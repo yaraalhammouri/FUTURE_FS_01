@@ -2,6 +2,9 @@ function Contact() {
     return (
       <section id="contact" className="section">
         <h2>Contact Me</h2>
+        <p className="contact-intro">
+            Feel free to reach out for collaboration, internship opportunities, or just to connect!
+        </p>
   
         <p>Email: yaraalhammouri33@gmail.com</p>
         <p>

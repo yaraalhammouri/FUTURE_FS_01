@@ -8,11 +8,11 @@ function Skills() {
           <span>CSS</span>
           <span>JavaScript</span>
           <span>React</span>
-          <span>Node.js</span>
-          <span>MySQL</span>
-          <span>Python</span>
-          <span>MariaDB</span>
+          <span>Responsive Design</span>
+          <span>Flexbox & Grid</span>
+          <span>Git</span>
           <span>GitHub</span>
+          <span>VS Code</span>
           <span>OOP</span>
         </div>
       </section>

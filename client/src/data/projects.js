@@ -2,9 +2,9 @@ const projects = [
     {
       title: "Portfolio Website",
       description:
-        "A professional personal portfolio website built to showcase my skills, projects, and contact information.",
+        "Designed and developed a responsive portfolio website using React. Features include smooth navigation, modular component structure, and a clean UI for showcasing skills and projects.",
       tech: "React, CSS, JavaScript",
-      github: "https://github.com/yourusername/portfolio-website",
+      github: "https://github.com/yaraalhammouri/FUTURE_FS_01",
       live: "https://your-live-link.com",
     },
    

@@ -182,3 +182,7 @@
     border-right-color: var(--border);
   }
 }
+  .contact-intro {
+    color: #1e3a8a;
+    margin-bottom: 20px;
+  }
